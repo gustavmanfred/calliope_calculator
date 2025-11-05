@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://gustavmanfred.github.io/schere-stein-papier/](https://gustavmanfred.github.io/schere-stein-papier/) öffnen
+> Diese Seite bei [https://gustavmanfred.github.io/schere-stein-papier/](https://gustavmanfred.github.io/calliope_calculator/) öffnen
 
 ## Als Erweiterung verwenden
 
